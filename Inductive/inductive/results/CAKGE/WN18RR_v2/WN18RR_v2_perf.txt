@@ -1,0 +1,37 @@
+0.0031, 0.9940, 0.000400,  16, 1, 5, 20, 0.2000,relu,<class 'models.CAKGE.CAKGE'>
+{'act': 'relu',
+ 'attn_dim': 1,
+ 'decay_rate': 0.994,
+ 'dropout': 0.2,
+ 'hidden_dim': 16,
+ 'lamb': 0.0004,
+ 'lr': 0.00308,
+ 'n_batch': 20,
+ 'n_ent': 6954,
+ 'n_extra_layer': 0,
+ 'n_layer': 5,
+ 'n_rel': 10,
+ 'perf_file': 'results/CAKGE/WN18RR_v2/WN18RR_v2_perf.txt',
+ 'save_path': 'results/CAKGE/WN18RR_v2'}
+[VALID] MRR:0.5327 H@1:0.4952 H@10:0.5990	 [TEST] MRR:0.6312 H@1:0.5745 H@10:0.7482 	[TIME] train:19.4501 inference:11.3237
+[VALID] MRR:0.5515 H@1:0.5158 H@10:0.6180	 [TEST] MRR:0.6628 H@1:0.6180 H@10:0.7612 	[TIME] train:34.8006 inference:10.7949
+[VALID] MRR:0.5582 H@1:0.5185 H@10:0.6314	 [TEST] MRR:0.6679 H@1:0.6180 H@10:0.7688 	[TIME] train:50.1830 inference:11.3690
+[VALID] MRR:0.5616 H@1:0.5219 H@10:0.6376	 [TEST] MRR:0.6663 H@1:0.6168 H@10:0.7723 	[TIME] train:66.2205 inference:11.3311
+0.0031, 0.9940, 0.000400,  16, 1, 5, 20, 0.2000,relu,<class 'models.CAKGE.CAKGE'>
+{'act': 'relu',
+ 'attn_dim': 1,
+ 'decay_rate': 0.994,
+ 'dropout': 0.2,
+ 'hidden_dim': 16,
+ 'lamb': 0.0004,
+ 'lr': 0.00308,
+ 'n_batch': 20,
+ 'n_ent': 6954,
+ 'n_extra_layer': 0,
+ 'n_layer': 5,
+ 'n_rel': 10,
+ 'perf_file': 'results/CAKGE/WN18RR_v2/WN18RR_v2_perf.txt',
+ 'save_path': 'results/CAKGE/WN18RR_v2'}
+[VALID] MRR:0.5332 H@1:0.4965 H@10:0.6031	 [TEST] MRR:0.6356 H@1:0.5863 H@10:0.7494 	[TIME] train:19.9991 inference:11.2566
+[VALID] MRR:0.5544 H@1:0.5187 H@10:0.6180	 [TEST] MRR:0.6632 H@1:0.6138 H@10:0.7682 	[TIME] train:36.0527 inference:11.2756
+[VALID] MRR:0.5633 H@1:0.5238 H@10:0.6368	 [TEST] MRR:0.6699 H@1:0.6221 H@10:0.7688 	[TIME] train:51.9646 inference:11.8885
