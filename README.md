@@ -23,7 +23,7 @@ We can use the following commands to train the model and evaluate the link predi
    cd transductive && python -W ignore train.py --data_path=data/nell --gpu 1
    cd transductive && python -W ignore train.py --data_path=data/yago3 --gpu 1
 ```
- If the program stops running after a while, it may be due to out of memory usage. You can change the batchsize in the train.py.
+ If the program stops running after a while, it may be due to out of memory usage. You can change the batch size in the train.py. Performance may fluctuate; multiple test runs are recommended.
 
 
 For other datasets can refer to the corresponding folder. If you have any questions, please contact to agiczsr@gmail.com
