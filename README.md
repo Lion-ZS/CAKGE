@@ -26,7 +26,7 @@ We can use the following commands to train the model and evaluate the link predi
  If the program stops running after a while, it may be due to out of memory usage. You can change the batchsize in the train.py.
 
 
-For other datasets can refer to the corresponding folder.
+For other datasets can refer to the corresponding folder. If you have any questions, please contact to agiczsr@gmail.com
    
 
 
